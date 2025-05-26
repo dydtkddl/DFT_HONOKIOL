@@ -1,9 +1,9 @@
-! OPT B3LYP def2-TZVP TightSCF
+! OPT B3LYP def2-TZVP TightSCF D3BJ RIJCOSX
 
 %maxcore 5000
 
 %pal
-nprocs 20
+nprocs 32
 end
 
 * xyz 0 1
